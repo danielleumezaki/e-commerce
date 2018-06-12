@@ -1,0 +1,79 @@
+.nav-wrapper {
+    background-color: #ba68c8;
+    height: 5vh;
+}
+
+nav ul li .secondNavbar {
+    display: block;
+    margin-left: 46çvw;
+
+}
+
+nav ul li a {
+    font-size: 1.6rem;
+    font-family: 'Lato', sans-serif;
+}
+
+nav ul li a:hover {
+    font-size: 1.6rem;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+    color: #6a1b9a;
+}
+
+.header {
+    text-align: center;
+    margin-top: 7vh;
+}
+h2 {
+    text-align: center;
+}
+
+.collection-shop {
+    margin-top: 7vh;
+    border: none;
+    text-align: center;
+}
+
+h1{
+    margin-top: 7vh;
+    text-align: center;
+}
+
+.card {
+    width: 18rem;
+    margin: 4vh auto;
+}
+
+.imgCart {
+    width: 40px;
+}
+
+.btn-primary {
+    background-color: #ab47bc;
+    border-color: #ab47bc;
+}
+
+.btn-primary:hover {
+    background-color: #7b1fa2;
+    border-color: #7b1fa2;
+}
+
+.total {
+    text-align: right;
+}
+
+input#firstName {
+    width: 30%;
+    margin: 3% auto 0 auto;
+    display: block;
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #E65100;
+    box-shadow: 0 1px 0 0 #E65100;
+  }
+
+.btn {
+    margin: auto;
+}
